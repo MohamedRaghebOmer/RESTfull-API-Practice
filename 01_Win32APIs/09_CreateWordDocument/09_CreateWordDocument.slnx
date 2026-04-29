@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../10_CreateExcelSheet/10_CreateExcelSheet.csproj" />
+  <Project Path="../11_CreatePowerPointPersentation/11_CreatePowerPointPersentation.csproj" />
+  <Project Path="09_CreateWordDocument.csproj" />
+</Solution>

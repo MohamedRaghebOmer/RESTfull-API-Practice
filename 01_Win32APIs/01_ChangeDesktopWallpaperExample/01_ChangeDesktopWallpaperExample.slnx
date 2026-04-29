@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="../02_GetScreenResolutionExample/02_GetScreenResolutionExample.csproj" />
+  <Project Path="../03_GetBattaryInfoCode/03_GetBattaryInfoExample.csproj" />
+  <Project Path="../04_ShutdownWindowsExample/04_ShutdownWindowsExample.csproj" />
+  <Project Path="../05_ShowMessageBoxFromConsoleAppExample/05_ShowMessageBoxFromConsoleAppExample.csproj" />
+  <Project Path="../06_GetCurrentRunningProccesses/06_GetCurrentRunningProccesses.csproj" />
+  <Project Path="../07_WifiNetworkExample/07_WifiNetworkExample.csproj" />
+  <Project Path="../08_OutlookMailSenderExample/08_OutlookMailSenderExample.csproj" />
+  <Project Path="01_ChangeDesktopWallpaperExample.csproj" />
+</Solution>
