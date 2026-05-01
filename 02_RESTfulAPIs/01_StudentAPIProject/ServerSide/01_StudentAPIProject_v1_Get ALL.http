@@ -1,0 +1,6 @@
+@_01_StudentAPIProject_v1_Get_ALL_HostAddress = http://localhost:5185
+
+GET {{_01_StudentAPIProject_v1_Get_ALL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
