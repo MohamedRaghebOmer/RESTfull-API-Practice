@@ -2,7 +2,7 @@
 
 ## 📘 Overview
 **RSETfull-API-Practice** is a hands-on learning repository focused on understanding how APIs work, with strong emphasis on RESTful API design and implementation.  
-This project is built through continuous practice, experimentation, and iterative improvement rather than production delivery.
+This project is built through continuous practice, experimentation, and iterative improvement rather than production delivery. 
 
 ## 🎯 Purpose of the Repository
 The main purpose of this repository is to deepen practical API knowledge by building and testing real examples. It serves as a personal training ground where I apply concepts directly in code, evaluate results, and improve through repetition.
